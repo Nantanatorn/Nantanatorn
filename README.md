@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nantanatorn everyone know me as Chino 
-- 👀 I’m interested in ML and WebDEV
+- 👀 I’m interested in AI and WebDEV
 - 🌱 I’m currently learning Information Technology at Kasetsart University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
