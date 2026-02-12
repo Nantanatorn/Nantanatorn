@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/gallery/life-eMD03VA" width="100%" />
+  <img src="[https://imgur.com/gallery/life-eMD03VA](https://imgur.com/gallery/life-eMD03VA)" width="100%" />
   <h1>Hi there, I'm Nantanatorn 👋</h1>
   <p><b>A Software Engineer Student from Thailand</b></p>
 </div>
