@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-  <h1>Hi there, I'm [ชื่อของคุณ] 👋</h1>
-  <p><b>A [ตําแหน่งของคุณ เช่น Software Engineer / Student] from [ประเทศ]</b></p>
+  <h1>Hi there, I'm Nantanatorn 👋</h1>
+  <p><b>A Software Engineer Student from Thailand</b></p>
 </div>
 
 ---
