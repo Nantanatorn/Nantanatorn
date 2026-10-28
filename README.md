@@ -50,11 +50,11 @@ vec3 nantanatorn = vec3(
 
 <div align="center">
 
-<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="./assets/card-commonfee.svg" width="48%" alt="Commonfee-management" /></a>
-<a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="./assets/card-villageclubhouse.svg" width="48%" alt="VillageClubHouse" /></a>
+<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="card-commonfee.svg" width="48%" alt="Commonfee-management" /></a>
+<a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="card-villageclubhouse.svg" width="48%" alt="VillageClubHouse" /></a>
 <br/>
-<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="./assets/card-ai-booth.svg" width="48%" alt="AI-Booth-Assistant" /></a>
-<a href="https://github.com/Nantanatorn/Online-Banking"><img src="./assets/card-online-banking.svg" width="48%" alt="Online-Banking" /></a>
+<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="card-ai-booth.svg" width="48%" alt="AI-Booth-Assistant" /></a>
+<a href="https://github.com/Nantanatorn/Online-Banking"><img src="card-online-banking.svg" width="48%" alt="Online-Banking" /></a>
 
 </div>
 
