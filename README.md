@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 🧐 ABOUT ME ⟩
 
@@ -26,7 +26,7 @@ vec3 nantanatorn = vec3(
 );
 ```
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 🛠️ TECH STACK ⟩
 
@@ -44,7 +44,7 @@ vec3 nantanatorn = vec3(
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 📌 FEATURED PROJECTS ⟩
 
@@ -58,7 +58,7 @@ vec3 nantanatorn = vec3(
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 📊 STATS ⟩
 
@@ -68,7 +68,7 @@ vec3 nantanatorn = vec3(
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 🏆 ACHIEVEMENTS ⟩
 
@@ -79,7 +79,7 @@ vec3 nantanatorn = vec3(
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ## ⟨ 🤝 CONNECT ⟩
 
