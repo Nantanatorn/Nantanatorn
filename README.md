@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Nantanatorn — ChinoDesu" width="100%" />
+<img src="header.svg" alt="Nantanatorn — ChinoDesu" width="100%" />
 
-<img src="./assets/typing.svg" alt="Typing animation" width="640" />
+<img src="typing.svg" alt="Typing animation" width="640" />
 
 <br/>
 
