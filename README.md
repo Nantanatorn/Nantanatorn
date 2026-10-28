@@ -1,89 +1,77 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nantanatorn%20(ChinoDesu)&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20Student%20from%20Thailand%20🇹🇭&descSize=18&descAlignY=58" alt="header" />
+<img src="./assets/header.svg" alt="Nantanatorn — ChinoDesu" width="100%" />
 
 <a href="https://github.com/Nantanatorn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nantanatorn+👋;Software+Engineer+Student;Currently+learning+Deep+Learning+%26+Unity+🎮;Building+full-stack+%26+AI+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nantanatorn+👋;Software+Engineer+Student+🇹🇭;Learning+Deep+Learning+%26+Unity+🎮;Rendering+ideas+into+reality+✨" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nantanatorn&label=Profile+Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Nantanatorn?style=for-the-badge&logo=github&color=1e2327)
-![Repos](https://img.shields.io/badge/Repositories-14-36BCF7?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Nantanatorn&label=VIEWS&color=ff00e6&style=for-the-badge&labelColor=0a0014)
+![Followers](https://img.shields.io/github/followers/Nantanatorn?style=for-the-badge&logo=github&color=00f0ff&labelColor=0a0014&logoColor=00f0ff)
+![Repos](https://img.shields.io/badge/REPOS-14-ff00e6?style=for-the-badge&logo=github&logoColor=ff00e6&labelColor=0a0014)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🧐 About Me
+## ⟨ 🧐 ABOUT ME ⟩
 
-- 🎓 Software Engineer student from **Thailand**
-- 🌱 Currently learning **Deep Learning** and **Unity**
-- 🚀 Interested in full-stack web, game dev and AI-powered apps
-- 📫 Reach me at **nantanatorns.4210@gmail.com**
+```glsl
+// profile.frag
+vec3 nantanatorn = vec3(
+    role      = "Software Engineer Student",
+    location  = "Thailand",
+    learning  = "Deep Learning, Unity",
+    contact   = "nantanatorns.4210@gmail.com"
+);
+```
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🛠️ Tech Stack
+## ⟨ 🛠️ TECH STACK ⟩
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0014?style=for-the-badge&logo=python&logoColor=00f0ff&label=&labelColor=0a0014&color=0a0014)
+![C#](https://img.shields.io/badge/C%23-0a0014?style=for-the-badge&logo=csharp&logoColor=ff00e6)
+![Unity](https://img.shields.io/badge/Unity-0a0014?style=for-the-badge&logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=for-the-badge&logo=typescript&logoColor=00f0ff)
+![Node.js](https://img.shields.io/badge/Node.js-0a0014?style=for-the-badge&logo=node.js&logoColor=ff00e6)
+![Vue.js](https://img.shields.io/badge/Vue.js-0a0014?style=for-the-badge&logo=vuedotjs&logoColor=00f0ff)
+![HTML5](https://img.shields.io/badge/HTML5-0a0014?style=for-the-badge&logo=html5&logoColor=ff00e6)
+![CSS3](https://img.shields.io/badge/CSS3-0a0014?style=for-the-badge&logo=css3&logoColor=00f0ff)
+![Git](https://img.shields.io/badge/Git-0a0014?style=for-the-badge&logo=git&logoColor=ff00e6)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 📌 Featured Projects
+## ⟨ 📌 FEATURED PROJECTS ⟩
 
 <div align="center">
 
-<a href="https://github.com/Nantanatorn/Commonfee-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Commonfee-management&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Nantanatorn/VillageClubHouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=VillageClubHouse&theme=radical&hide_border=true" />
-</a>
+<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Commonfee-management&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=VillageClubHouse&theme=synthwave&hide_border=true" /></a>
 <br/>
-<a href="https://github.com/Nantanatorn/AI-Booth-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=AI-Booth-Assistant&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Nantanatorn/Online-Banking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Online-Banking&theme=radical&hide_border=true" />
-</a>
+<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=AI-Booth-Assistant&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/Nantanatorn/Online-Banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Online-Banking&theme=synthwave&hide_border=true" /></a>
 
 </div>
 
-| Project | Stack | Description |
-| :-- | :-- | :-- |
-| [Commonfee-management](https://github.com/Nantanatorn/Commonfee-management) | `TypeScript` | Common fee management system |
-| [VillageClubHouse](https://github.com/Nantanatorn/VillageClubHouse) | `HTML` | Village clubhouse web app |
-| [AI-Booth-Assistant](https://github.com/Nantanatorn/AI-Booth-Assistant) | `C#` | AI booth assistant |
-| [Online-Banking](https://github.com/Nantanatorn/Online-Banking) | `Vue` | Online banking web app |
+<img src="./assets/divider.svg" width="100%" />
 
----
-
-## 📊 GitHub Stats
+## ⟨ 📊 STATS ⟩
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nantanatorn&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nantanatorn&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nantanatorn&show_icons=true&theme=synthwave&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nantanatorn&layout=compact&theme=synthwave&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Nantanatorn&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Nantanatorn&theme=synthwave&hide_border=true" />
 
 <br/>
 
@@ -91,9 +79,9 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🏆 Achievements
+## ⟨ 🏆 ACHIEVEMENTS ⟩
 
 <div align="center">
 
@@ -102,18 +90,14 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## 🤝 Connect with Me
+## ⟨ 🤝 CONNECT ⟩
 
 <div align="center">
 
-<a href="mailto:nantanatorns.4210@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Nantanatorn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:nantanatorns.4210@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0014?style=for-the-badge&logo=gmail&logoColor=ff00e6" /></a>
+<a href="https://github.com/Nantanatorn"><img src="https://img.shields.io/badge/GitHub-0a0014?style=for-the-badge&logo=github&logoColor=00f0ff" /></a>
 
 <br/><br/>
 
