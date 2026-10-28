@@ -2,9 +2,7 @@
 
 <img src="./assets/header.svg" alt="Nantanatorn — ChinoDesu" width="100%" />
 
-<a href="https://github.com/Nantanatorn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Nantanatorn+👋;Software+Engineer+Student+🇹🇭;Learning+Deep+Learning+%26+Unity+🎮;Rendering+ideas+into+reality+✨" alt="Typing SVG" />
-</a>
+<img src="./assets/typing.svg" alt="Typing animation" width="640" />
 
 <br/>
 
@@ -52,11 +50,11 @@ vec3 nantanatorn = vec3(
 
 <div align="center">
 
-<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Commonfee-management&theme=synthwave&hide_border=true" /></a>
-<a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=VillageClubHouse&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="./assets/card-commonfee.svg" width="48%" alt="Commonfee-management" /></a>
+<a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="./assets/card-villageclubhouse.svg" width="48%" alt="VillageClubHouse" /></a>
 <br/>
-<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=AI-Booth-Assistant&theme=synthwave&hide_border=true" /></a>
-<a href="https://github.com/Nantanatorn/Online-Banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nantanatorn&repo=Online-Banking&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="./assets/card-ai-booth.svg" width="48%" alt="AI-Booth-Assistant" /></a>
+<a href="https://github.com/Nantanatorn/Online-Banking"><img src="./assets/card-online-banking.svg" width="48%" alt="Online-Banking" /></a>
 
 </div>
 
@@ -66,16 +64,7 @@ vec3 nantanatorn = vec3(
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nantanatorn&show_icons=true&theme=synthwave&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nantanatorn&layout=compact&theme=synthwave&hide_border=true" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Nantanatorn&theme=synthwave&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nantanatorn&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
