@@ -19,7 +19,7 @@
 ```glsl
 // profile.frag
 vec3 nantanatorn = vec3(
-    role      = "Software Engineer Student",
+    role      = "Software Engineer",
     location  = "Thailand",
     learning  = "Deep Learning, Unity",
     contact   = "nantanatorns.4210@gmail.com"
