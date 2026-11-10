@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" width="460" height="140" role="img" aria-label="Commonfee-management: Village fee invoices and payments">
-<rect x="1" y="1" width="458" height="138" rx="6" fill="#EDF0F7" stroke="#C9D0E3" stroke-width="2"/>
-<rect x="1" y="1" width="10" height="138" rx="3" fill="#2B2FE6"/>
-<text x="34" y="50" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#141A2E">Commonfee-management</text>
-<text x="34" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#141A2E">Village fee invoices and payments</text>
-<circle cx="40" cy="113" r="5" fill="#3178C6"/>
-<text x="54" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#5A6482">Angular, Node.js, SQL Server</text>
+<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#FF00E6"/><stop offset="1" stop-color="#00F0FF"/></linearGradient></defs>
+<rect x="1" y="1" width="458" height="138" rx="8" fill="#0A0014" stroke="url(#b)" stroke-width="2"/>
+<text x="26" y="52" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#E6E9FF">Commonfee-management</text>
+<text x="26" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#9AA4D8">Village fee invoices and payments</text>
+<text x="26" y="116" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#00F0FF">Angular, Node.js, SQL Server</text>
 </svg>
