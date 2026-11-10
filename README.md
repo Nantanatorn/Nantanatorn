@@ -1,95 +1,43 @@
-<div align="center">
+<img src="header.svg" alt="Nantanatorn Buranachalermpong, full-stack developer" width="100%" />
 
-<img src="header.svg" alt="Nantanatorn — ChinoDesu" width="100%" />
+I build complete web applications and add AI features to them, from LLM and RAG integration to real-time voice. I graduated in Information Technology from Kasetsart University in 2026, and I'm looking for an entry-level web, software or AI developer role, remote or hybrid.
 
-<img src="typing.svg" alt="Typing animation" width="640" />
+## Experience
 
-<br/>
+**Intern, TEEP Internship, Tamkang University, Taiwan** (Feb 2026 to Jun 2026)
+Research on invisible watermarking for Stable Diffusion images. I replaced the lab's random embedding-position selection with Particle Swarm Optimization. On 100 images under 12 attacks, average detection rose from 66.1% to 82.2% with image quality maintained.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nantanatorn&label=VIEWS&color=ff00e6&style=for-the-badge&labelColor=0a0014)
-![Followers](https://img.shields.io/github/followers/Nantanatorn?style=for-the-badge&logo=github&color=00f0ff&labelColor=0a0014&logoColor=00f0ff)
-![Repos](https://img.shields.io/badge/REPOS-14-ff00e6?style=for-the-badge&logo=github&logoColor=ff00e6&labelColor=0a0014)
+**Full Stack Developer Intern, Exzy Company Limited** (Nov 2025 to Feb 2026)
+Built AI Booth Assistant, a real-time voice kiosk for exhibitions, including the Node.js backend (Gemini Live API, WebSockets) and the Unity frontend. Added RAG over uploaded PDFs with MongoDB Atlas and session resumption past the Live API's 10-minute limit.
 
-</div>
-
-<img src="divider.svg" width="100%" />
-
-## ⟨ 🧐 ABOUT ME ⟩
-
-```glsl
-// profile.frag
-vec3 nantanatorn = vec3(
-    role      = "Software Engineer",
-    location  = "Thailand",
-    learning  = "Deep Learning, Unity",
-    contact   = "nantanatorns.4210@gmail.com"
-);
-```
-
-<img src="divider.svg" width="100%" />
-
-## ⟨ 🛠️ TECH STACK ⟩
+## Projects
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0014?style=for-the-badge&logo=python&logoColor=00f0ff&label=&labelColor=0a0014&color=0a0014)
-![C#](https://img.shields.io/badge/C%23-0a0014?style=for-the-badge&logo=csharp&logoColor=ff00e6)
-![Unity](https://img.shields.io/badge/Unity-0a0014?style=for-the-badge&logo=unity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=for-the-badge&logo=typescript&logoColor=00f0ff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0014?style=for-the-badge&logo=node.js&logoColor=ff00e6)
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0014?style=for-the-badge&logo=vuedotjs&logoColor=00f0ff)
-![HTML5](https://img.shields.io/badge/HTML5-0a0014?style=for-the-badge&logo=html5&logoColor=ff00e6)
-![CSS3](https://img.shields.io/badge/CSS3-0a0014?style=for-the-badge&logo=css3&logoColor=00f0ff)
-![Git](https://img.shields.io/badge/Git-0a0014?style=for-the-badge&logo=git&logoColor=ff00e6)
-
-</div>
-
-<img src="divider.svg" width="100%" />
-
-## ⟨ 📌 FEATURED PROJECTS ⟩
-
-<div align="center">
-
-<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="card-commonfee.svg" width="48%" alt="Commonfee-management" /></a>
+<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="card-ai-booth.svg" width="48%" alt="AI Booth Assistant" /></a>
 <a href="https://github.com/Nantanatorn/VillageClubHouse"><img src="card-villageclubhouse.svg" width="48%" alt="VillageClubHouse" /></a>
 <br/>
-<a href="https://github.com/Nantanatorn/AI-Booth-Assistant"><img src="card-ai-booth.svg" width="48%" alt="AI-Booth-Assistant" /></a>
-<a href="https://github.com/Nantanatorn/Online-Banking"><img src="card-online-banking.svg" width="48%" alt="Online-Banking" /></a>
+<a href="https://github.com/Nantanatorn/Online-Banking"><img src="card-online-banking.svg" width="48%" alt="Online Banking" /></a>
+<a href="https://github.com/Nantanatorn/Commonfee-management"><img src="card-commonfee.svg" width="48%" alt="Commonfee-management" /></a>
 
 </div>
 
-<img src="divider.svg" width="100%" />
+## Tech stack
 
-## ⟨ 📊 STATS ⟩
+- **Languages:** Python, C, C#, JavaScript, TypeScript, PHP, Java, Kotlin
+- **Frameworks:** Angular, React, Vue.js, Laravel, ASP.NET, Node.js, Express.js
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB (Atlas Vector Search)
+- **AI:** Gemini API, RAG, embeddings, Stable Diffusion, PSO
+- **Tools:** Git, Docker, Unity, Figma, WebSockets
+
+## Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nantanatorn&theme=synthwave&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Nantanatorn&hide_border=true&background=EDF0F7&ring=2B2FE6&fire=2B2FE6&currStreakLabel=141A2E&sideLabels=141A2E&currStreakNum=141A2E&sideNums=141A2E&dates=5A6482" alt="GitHub streak" />
 
 </div>
 
-<img src="divider.svg" width="100%" />
+## Contact
 
-## ⟨ 🏆 ACHIEVEMENTS ⟩
-
-<div align="center">
-
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" />
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" />
-
-</div>
-
-<img src="divider.svg" width="100%" />
-
-## ⟨ 🤝 CONNECT ⟩
-
-<div align="center">
-
-<a href="mailto:nantanatorns.4210@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0014?style=for-the-badge&logo=gmail&logoColor=ff00e6" /></a>
-<a href="https://github.com/Nantanatorn"><img src="https://img.shields.io/badge/GitHub-0a0014?style=for-the-badge&logo=github&logoColor=00f0ff" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
-
-</div>
+[nantanatorns.4210@gmail.com](mailto:nantanatorns.4210@gmail.com) · [github.com/Nantanatorn](https://github.com/Nantanatorn)
