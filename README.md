@@ -56,6 +56,8 @@ I build complete web applications and add AI features to them, from LLM and RAG 
 <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation"><img src="https://img.shields.io/badge/RAG-0a0014?style=for-the-badge" alt="RAG" title="RAG" height="28" /></a>
 <a href="https://stability.ai/stable-image"><img src="https://img.shields.io/badge/Stable%20Diffusion-0a0014?style=for-the-badge" alt="Stable Diffusion" title="Stable Diffusion" height="28" /></a>
 <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-0a0014?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" title="Jupyter" height="28" /></a>
+<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-0a0014?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" title="Claude Code" height="28" /></a>
+<a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-0a0014?style=for-the-badge" alt="Antigravity" title="Antigravity" height="28" /></a>
 <br/>
 <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" title="Unity" height="48" /></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" height="48" /></a>
@@ -121,10 +123,26 @@ Thai (native), English (B1, TOEIC 595), Chinese (beginner)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nantanatorn&show_icons=true&hide_border=true&bg_color=0a0014&title_color=00f0ff&text_color=e6e9ff&icon_color=ff00e6" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nantanatorn&layout=compact&hide_border=true&bg_color=0a0014&title_color=00f0ff&text_color=e6e9ff" height="170" alt="Top languages" />
+<img src="profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile details" />
+
+<img src="profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Stats" />
+<img src="profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most commit language" />
 
 <img src="https://streak-stats.demolab.com?user=Nantanatorn&theme=synthwave&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+## Snake eats my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nantanatorn/Nantanatorn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nantanatorn/Nantanatorn/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Nantanatorn/Nantanatorn/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
